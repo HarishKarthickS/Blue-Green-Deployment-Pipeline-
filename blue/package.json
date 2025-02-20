@@ -1,0 +1,14 @@
+{
+    "name": "blue-service",
+    "version": "1.0.0",
+    "description": "Blue deployment service for blue-green deployment",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "pg": "^8.7.1"
+    }
+  }
+  
